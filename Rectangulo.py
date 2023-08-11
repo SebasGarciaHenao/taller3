@@ -18,8 +18,3 @@ class rectangulo:
         else:
             print("el rectangulo no es cuadrado")
 
-rectanguloo=rectangulo("punto 1","punto 2")
-rectanguloo.perimetro(2,3)
-rectanguloo.area(2,3)
-rectanguloo.pertenece(3,3)
-rectanguloo.pertenece(5,3)
