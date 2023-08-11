@@ -24,3 +24,12 @@
 # coordenadas.nuevasC(6,1)
 
 # coordenadas.calculoC(4,8,6,1)
+
+
+# from Rectangulo import rectangulo
+
+# rectanguloo=rectangulo("punto 1","punto 2")
+# rectanguloo.perimetro(2,3)
+# rectanguloo.area(2,3)
+# rectanguloo.pertenece(3,3)
+# rectanguloo.pertenece(5,3)
