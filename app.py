@@ -8,9 +8,19 @@
 
 
 
-from punto import punto_pano
-paraX=int(input("ingrese una cordenada: "))
-paraY=int(input("ingrese una cordenada: "))
+# from punto import punto_pano
+# paraX=int(input("ingrese una cordenada: "))
+# paraY=int(input("ingrese una cordenada: "))
 
-print(punto_pano(paraX,paraY))
+# print(punto_pano(paraX,paraY))
         
+# from punto_mover import puntos_planos
+
+
+# coordenadas=puntos_planos("x","y")
+
+# coordenadas.mostrarC(4,8)
+
+# coordenadas.nuevasC(6,1)
+
+# coordenadas.calculoC(4,8,6,1)
