@@ -39,3 +39,17 @@
 # circulo=Circulo(0,10)
 # circulo.areaC()
 # circulo.perimetroC()
+
+
+# from cartas import Cartas
+
+# carta=Cartas(5,"picas")
+# carta.picas()
+# carta=Cartas(5,"corazones")
+# carta.corazones()
+# carta=Cartas(5,"rombos")
+# carta.rombos()
+# carta=Cartas(5,"tréboles")
+# carta.tréboless()
+        
+        
