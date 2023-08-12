@@ -33,3 +33,9 @@
 # rectanguloo.area(2,3)
 # rectanguloo.pertenece(3,3)
 # rectanguloo.pertenece(5,3)
+
+# from circulo import Circulo
+
+# circulo=Circulo(0,10)
+# circulo.areaC()
+# circulo.perimetroC()
